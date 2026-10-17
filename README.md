@@ -1,6 +1,6 @@
 # 👋 Hey, I'm MPUMELELO!
 
-### 💻 Computer Science & Information Systems Student | Aspiring Software Developer 🇿🇦
+### 💻 Computer Science & Information Systems Student | Aspiring Software Engineer
 
 🚀 *Turning ideas into code and building solutions to real-world problems.*
 

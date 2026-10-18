@@ -4,7 +4,7 @@
 
 🚀 *Turning ideas into code and building solutions to real-world problems.*
 
-I'm a BCom Computer Science & Information Systems student passionate about software development, database-driven applications, and solving problems through technology. I enjoy exploring new concepts, and continuously improving my coding skills.
+I'm a Computer Science & Information Systems student passionate about software development, database-driven applications, and solving problems through technology. I enjoy exploring new concepts, and continuously improving my coding skills.
 
 ---
 
